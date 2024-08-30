@@ -1,16 +1,25 @@
-## Hi there 👋
+### 👋 Hi there, I'm Kishan Gareja
 
-<!--
-**kishangareja0012/kishangareja0012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm an enthusiastic Full Stack Developer with extensive experience in developing efficient and dynamic web applications. I specialize in leveraging the power of Laravel, React, Vue, and Node.js to deliver scalable and robust solutions.
+---
 
-Here are some ideas to get you started:
+##### 🔧 My Technical Toolkit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend Technologies:** Laravel, Node.js, Express.js
+- **Frontend Frameworks:** React.js, Vue.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Tailwind CSS, Next.js
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Version Control Systems:** Git, GitHub, Bitbucket
+
+---
+
+### 🌍 Most Used Languages
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishangareja0012&hide_title=true&layout=compact&hide_border=true&theme=darcula" style="width: 400px" alt="Top Langs" />
+</div>
+
+---
+
+### 📬 Let's Get in Touch
+
+For any inquiries or collaboration opportunities, feel free to reach out via email: [kishangareja0012@gmail.com](mailto:kishangareja0012@gmail.com)
